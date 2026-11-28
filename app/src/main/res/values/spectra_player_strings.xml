@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="player_mode_audio">Audio</string>
+    <string name="player_mode_video">Video</string>
+    <string name="player_video_loading">Memuat video…</string>
+    <string name="player_video_unavailable">Video resmi untuk lagu ini tidak tersedia</string>
+</resources>
