@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fx_premium_title">Efek Premium</string>
+    <string name="fx_off">Mati</string>
+    <string name="fx_grain">Grain film</string>
+    <string name="fx_vignette">Vignette sinematik</string>
+    <string name="fx_edge_glow">Cahaya tepi layar</string>
+    <string name="fx_spotlight">Cahaya sentuhan</string>
+</resources>
